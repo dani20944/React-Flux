@@ -1,0 +1,26 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "slug": "super",
+      "title": "Super",
+      "authorId": 1,
+      "category": "hola",
+      "createdAt": 1579236997005
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Cory House"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Dan Wahlin"
+    }
+  ]
+}
